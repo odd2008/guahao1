@@ -1,0 +1,6 @@
+默认管理员名字：1234
+管理员密码：1234
+
+
+普通用户：http://guahao1.duapp.com
+管理员：http://guahao1.duapp.com/admin.jsp
